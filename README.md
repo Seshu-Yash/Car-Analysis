@@ -1,5 +1,7 @@
 ### Car Sales Dashboard in Power BI
-
+### Dash Board:- 
+![Screenshot 2024-02-23 151800](https://github.com/Seshu-Yash/Car-Analysis/assets/137307079/80bb2a19-e9bc-4982-af21-bd8a781ff41e)
+![Screenshot 2024-02-23 151811](https://github.com/Seshu-Yash/Car-Analysis/assets/137307079/06707093-c9a5-4853-bd67-b6efbf6803e8)
 ---
 
 #### Overview
